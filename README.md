@@ -10,7 +10,7 @@ This repository is for showing how Git and GitHub work, test
 Sample website with plenty of files for demos.
 
 ##How To Contribute
-test.
+Please fork this repository and then issue Pull Requests for review.
 
 
 ###Copyright Notice
