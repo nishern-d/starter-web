@@ -2,7 +2,8 @@
 
 ##Introduction
 
-This repository is for showing how Git and GitHub work, test
+This repository is for showing how Git and GitHub work, Adding a Line For Rebasing Example.
+
 
 ## Purpose
 
